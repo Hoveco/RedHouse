@@ -539,7 +539,7 @@ figure .pin-copy {
 
 .markdown-body p {
   margin-top: 0;
-  margin-bottom: 10px;
+  margin-bottom: 18px;
 }
 
 .markdown-body blockquote {
@@ -658,7 +658,7 @@ figure .pin-copy {
 .markdown-body table,
 .markdown-body pre {
   margin-top: 0;
-  margin-bottom: 16px;
+  margin-bottom: 18px;
 }
 
 .markdown-body hr {
