@@ -109,7 +109,7 @@ a:hover {
 .archives .post-list,
 .tag-index .tag-list,
 .about-index .markdown-body {
-  padding: 0 40px;
+  padding: 0 0px;
 }
 
 .category-index .category-list {
@@ -188,7 +188,7 @@ a:hover {
   .archives .post-list,
   .tag-index .tag-list,
   .about-index .markdown-body {
-    padding: 0 20px;
+    padding: 0 0px;
   }
 }
 
