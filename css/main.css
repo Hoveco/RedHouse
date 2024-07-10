@@ -1174,7 +1174,7 @@ a:hover {
 .archives .post-list,
 .tag-index .tag-list,
 .about-index .markdown-body {
-  padding: 0 0px;
+  padding: 0 40px;
 }
 
 .category-index .category-list {
@@ -1253,7 +1253,7 @@ a:hover {
   .archives .post-list,
   .tag-index .tag-list,
   .about-index .markdown-body {
-    padding: 0 0px;
+    padding: 0 20px;
   }
 }
 
