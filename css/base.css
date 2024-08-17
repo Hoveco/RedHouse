@@ -34,10 +34,9 @@ body.hidden {
 .markdown-body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  line-height: 2;
+  line-height: 1.5;
   color: #24292e;
   font-size: 2rem;
-  line-height: 2;
   word-wrap: break-word;
 /*  font-family: "LXGW WenKai", sans-serif;*/
   color: var(--color-text-md-content)
