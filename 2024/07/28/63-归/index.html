@@ -251,6 +251,11 @@
           </div>
           <div class="post-foot-prev">
             
+              <a href="/2024/08/04/64-%E4%BB%8E21%E4%B8%96%E7%BA%AA%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB/" target="_self">
+                <span>下一页</span>
+                <i class="iconfont icon-chevronright"></i>
+              </a>
+            
           </div>
         </div>
       
@@ -267,7 +272,7 @@
       func({
         el: '#waline-comments',
         path: location.pathname,
-        serverURL: 'https://waline-1-a5246134.deta.app',
+        serverURL: 'https://hoveco.netlify.app/.netlify/functions/comment',
         emoji: false,
         dark: 'auto',
         requiredMeta: ['nick', 'mail'],
@@ -281,9 +286,9 @@
   </script>
 
   
-    <link rel="stylesheet" href="/plugins/waline.css">
+    <link rel="stylesheet" href="">
     <script type="module">
-      import { init } from '/plugins/waline.mjs'
+      import { init } from ''
       loadWalineSuc(init)
     </script>
   
