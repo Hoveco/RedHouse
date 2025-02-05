@@ -1,0 +1,8 @@
+p::first-letter {
+color:#000000;
+float:left;
+font-size:40px;
+padding-top: 0px;
+margin:0 .2em 0 0
+}
+p {clear:both;}
