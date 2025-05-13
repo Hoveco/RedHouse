@@ -1,3 +1,6 @@
+/* 引入 LXGW WenKai Screen 字体 */
+@import url('https://cdn.staticfile.net/lxgw-wenkai-screen-webfont/1.6.0/lxgwwenkaiscreen.css');
+
 * {
   margin: 0;
   padding: 0;
