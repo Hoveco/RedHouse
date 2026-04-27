@@ -1,8 +1,12 @@
-p::first-letter {
-color:#000000;
-float:left;
-font-size:40px;
-padding-top: 0px;
-margin:0 .2em 0 0
+.post-wordcount {
+  padding: 0 10px;
+  display: flex;
+  align-items: center;
+  font-size: 1.4rem;
+  color: var(--color-text-a);
 }
-p {clear:both;}
+
+.post-wordcount .wordcount-separator {
+  margin: 0 6px;
+  color: var(--color-text-base);
+}
